@@ -3,7 +3,7 @@
 ```
 Note: The code really has to be private, but I wanted to share how
 I structured the project and why I made certain decisions! I can
-always show you some code samples if you're interested. 😊
+always show you the code if you're interested 😊
 ```
 
 # 🎵 Audoly: Playlisting and Music Intelligence Platform
